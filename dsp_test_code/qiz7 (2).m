@@ -1,0 +1,10 @@
+clc;
+clear all;
+n=0:0.5:20;
+p=10;
+q=14;
+x7=exp((-(n-p).^2)/q);
+stem(n,x7,'.');
+xlabel('n');
+ylabel('x7(n)');
+title('∏ﬂÀπ–Ú¡–');

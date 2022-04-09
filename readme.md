@@ -76,3 +76,8 @@
 | Modulation-Recognition-for-Wireless-Signals                  | [Code](https://github.com/LionAE/modulation-recognition-for-wireless-signals) | CNN、LSTM              |
 |                                                              |                                                              |                        |
 
+
+
+# Personal introduction
+
+<img src="ImageSave/wechat.png" alt="mywechat" style="zoom: 25%;" />

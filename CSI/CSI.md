@@ -15,7 +15,16 @@
 
 1. Title：**Activity-recognition-using-Wi-Fi-CSI-data**  
    * Link：[[Activity-recognition-using-Wi-Fi-CSI-data]](https://github.com/sansanketdg/Activity-recognition-using-Wi-Fi-CSI-data/tree/master/data_2/position1)
-2. so on
+2. Title：Human Activity Recognition (HAR) based on WiFi CSI data
+   * Link：[GitHub Link](https://github.com/Retsediv/WIFI_CSI_based_HAR) ； 其中包含数据集；
+3. Title： WiFi-movement-identification
+   * Link ：[GitHub Link](https://github.com/persistforever/WiFi-movement-identification);
+   * 作者介绍：设置一个WiFi发射器，一个WiFi接收器，通过发射和接受CSI信号，进行空间内变化检测，当进行不同的动作（如蹲下、站起、跌倒等）使，会引起WiFi信号的变化，使用机器学习模型对不同的信号进行分类，以达到动作识别（movement identification）任务；
+4. Title： WiFi CSI Respiration
+   * Link ： [GitHub Link](https://github.com/JiamuLea/WiFi_CSI_Respiration) ；
+   * 作者介绍：本仓库是毕业设计《基于无线信号非静止状态呼吸心跳检测》的概念验证代码；
+5. Title： Non-intrusive Biometric Identification for Personalized Computing Using Wireless Big Data
+   * Link： [IEEE Link](https://ieeexplore.ieee.org/document/8560141)；[GitHub Link](https://github.com/mobinets/wifiwalker)；
 
 
 

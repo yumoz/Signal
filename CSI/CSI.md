@@ -23,6 +23,11 @@
 6. Title：WiFi-based activity recognition dataset
    * Link：[GitHub Link](https://github.com/linteresa/WiAR) ；
    * introduction：WiAR-mater
+7. Title：**A Survey on Behaviour Recognition Using WiFi Channle State Information**
+   * Link：[GitHub Link （Code、DataSet）](https://github.com/ermongroup/Wifi_Activity_Recognition)；
+   * 期刊：IEEE Communication Magazine
+8. Title：Two-Stream Convolution Augmented Transformer for Human Activity Recognition
+   * Link：[GitHub Link （Code、data）](https://github.com/windofshadow/THAT);
 
 
 

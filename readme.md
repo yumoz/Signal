@@ -1,6 +1,6 @@
 # Signal and Processing 
 
-（通信信号处理）有关论文及代码总结；
+（通信信号处理）有关论文及代码总结；Github同步分享。
 
 # 栏目导航/navigation
 

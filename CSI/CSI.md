@@ -2,14 +2,10 @@
 
 此部分总结有关CSI的研究，总结：
 
-
-
-
-
 ## Paper With Code
 
 1. Title：**Activity-recognition-using-Wi-Fi-CSI-data**  
-   * Link：[[Activity-recognition-using-Wi-Fi-CSI-data]](https://github.com/sansanketdg/Activity-recognition-using-Wi-Fi-CSI-data/tree/master/data_2/position1)
+   * Link：[[Activity-recognition-using-Wi-Fi-CSI-data]](https://github.com/sansanketdg/Activity-recognition-using-Wi-Fi-CSI-data)
 2. Title：Human Activity Recognition (HAR) based on WiFi CSI data
    * Link：[GitHub Link](https://github.com/Retsediv/WIFI_CSI_based_HAR) ； 其中包含数据集；
 3. Title： WiFi-movement-identification
@@ -28,14 +24,8 @@
    * 期刊：IEEE Communication Magazine
 8. Title：Two-Stream Convolution Augmented Transformer for Human Activity Recognition
    * Link：[GitHub Link （Code、data）](https://github.com/windofshadow/THAT);
-
-
-
-## 杂项
-
-* MATLAB用来处理csi.dat , [Github Link](https://github.com/guanzaijia/csi-matlab) ;
-* CSI-dataset  [GitHub Link](https://github.com/qiang5love1314/CSI-dataset) ；
-  * 介绍：Here are the channel state information (CSI) dataset which could be utilized for indoor localization. We collect them in two real world environments；
+9. 北邮的python代码参考：[Link Here](https://github.com/superyuxiao/CSI)；
+   * 介绍：机器学习，butterworth滤波器等等。
 
 
 
@@ -45,8 +35,33 @@
 
 1.  Gi-z总结的：[Link](https://github.com/Gi-z/CSI-Data)
     * 介绍：全面，分类清楚；
+    
 2.  CSI-HAR-Dataset more about： [GitHub Link](https://github.com/parisafm/CSI-HAR-Dataset)
-    * 介绍：A dataset for seven different daily human activities including sitdown, standup, liedown, run, walk, fall and bend in an indoor environment.
-    * [Pape Link](https://www.mdpi.com/1424-8220/21/21/7225/pdf)；
-    * [DataSet Link](https://www.mdpi.com/1424-8220/21/21/7225/pdf)；
+    * intro：A dataset for seven different daily human activities including sitdown, standup, liedown, run, walk, fall and bend in an indoor environment.
+    * [Pape Link : A CSI-Based Human Activity Recognition Using Deep Learning](https://www.mdpi.com/1424-8220/21/21/7225/pdf)；
+    * [DataSet Link](https://github.com/parisafm/CSI-HAR-Dataset)；
+    
+3. CSI-dataset  [GitHub Link](https://github.com/qiang5love1314/CSI-dataset) ；
 
+    * 介绍：Here are the channel state information (CSI) dataset which could be utilized for **indoor localization**. We collect them in two real world environments；
+
+    * 用途：室内定位；
+    * 数据集内容：实验室环境和会议室环境测试的数据集。
+
+
+
+## 整理
+
+总结有关WiFi Sensing的论文资料等；
+
+| 论文 | 网址                                                         | 备注                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | [HACS](https://github.com/tahmidzbr/Human-Activities-Gestures-Recognition-using-Channel-State-Information-CSI-of-IEEE-802.11n?ysclid=ldy39stvya550102249) | This is a data-set for Human Activities & Gestures Recognition (HAGR) using the Channel State information (CSI) of IEEE 802.11n devices |
+|      |                                                              |                                                              |
+|      |                                                              |                                                              |
+
+
+
+## 杂项
+
+* MATLAB用来处理csi.dat , [Github Link](https://github.com/guanzaijia/csi-matlab) ;

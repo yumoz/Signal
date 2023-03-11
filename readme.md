@@ -4,12 +4,12 @@
 
 # 栏目导航/navigation
 
-| introduction/介绍         | link/链接                                                    | etc                               |
-| ------------------------- | ------------------------------------------------------------ | --------------------------------- |
-|                           | [Communication Signal Analysis](https://github.com/glingi/CommunicationSignalAnalysis) | author：glingi                    |
-| modulation classification | [modulation recognition GitHub Links](https://github.com/isaaccorley/pytorch-modulation-recognition) | pytorch <br />RadioML2016 Dataset |
-| CSI （信道状态信息）      | [Detail About ， Link to CSI](https://github.com/yumoz/Signal/blob/master/CSI/CSI.md) |                                   |
-| wireless & DeepLearning   | [Paper-with-Code-of-Wireless-communication-Based-on-DL](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL) | Paper & Code More Details         |
+| introduction                     | link                                                         | etc                               |
+| -------------------------------- | ------------------------------------------------------------ | --------------------------------- |
+| Communication Signal Analysis    | [Communication Signal Analysis](https://github.com/glingi/CommunicationSignalAnalysis) | author：glingi                    |
+| modulation classification        | [modulation recognition GitHub Links](https://github.com/isaaccorley/pytorch-modulation-recognition) | pytorch <br />RadioML2016 Dataset |
+| channel state information（CSI） | [Detail About ， Link to CSI](https://github.com/yumoz/Signal/blob/master/CSI/CSI.md) |                                   |
+| wireless & DeepLearning          | [Paper-with-Code-of-Wireless-communication-Based-on-DL](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL) | Paper & Code More Details         |
 
 
 

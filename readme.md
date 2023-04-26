@@ -1,37 +1,22 @@
 # Signal and Processing 
 
-（通信信号处理）有关论文及代码总结；This for Github.
+This for Github.
 
-# 栏目导航/navigation
+# navigation
 
-| introduction                     | link                                                         | etc                               |
-| -------------------------------- | ------------------------------------------------------------ | --------------------------------- |
-| Communication Signal Analysis    | [Communication Signal Analysis](https://github.com/glingi/CommunicationSignalAnalysis) | author：glingi                    |
-| modulation classification        | [modulation recognition GitHub Links](https://github.com/isaaccorley/pytorch-modulation-recognition) | pytorch <br />RadioML2016 Dataset |
-| channel state information（CSI） | [Detail About ， Link to CSI](https://github.com/yumoz/Signal/blob/master/CSI/CSI.md) |                                   |
-| wireless & DeepLearning          | [Paper-with-Code-of-Wireless-communication-Based-on-DL](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL) | Paper & Code More Details         |
+| introduction                  | link                                                         | etc                                    |
+| ----------------------------- | ------------------------------------------------------------ | -------------------------------------- |
+| Communication Signal Analysis | [Communication Signal Analysis](https://github.com/glingi/CommunicationSignalAnalysis) | author：glingi                         |
+| modulation classification     | [modulation recognition GitHub Links](https://github.com/isaaccorley/pytorch-modulation-recognition) | pytorch <br />RadioML2016 Dataset      |
+| WiFi Sensing                  | [Link to WiFi Sensing](https://github.com/yumoz/Signal/blob/master/WiFiSensing/WiFiSensing.md) | channel state information（CSI）、WiFi |
+| Milimeter Wave Sensing        |                                                              | MilimeterWave、Radar                   |
+| wireless & DeepLearning       | [Paper-with-Code-of-Wireless-communication-Based-on-DL](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL) | Paper & Code More Details              |
 
-# 无线感知
 
-此部分总结有关CSI的研究，总结：[Detail About ， Link to CSI](https://github.com/yumoz/Signal/blob/master/CSI/CSI.md)；
 
-## WiFi CSI Data 
 
-1.  Gi-z总结的：[Link](https://github.com/Gi-z/CSI-Data)
-    * 介绍：全面，分类清楚；
-2.  CSI-HAR-Dataset more about： [GitHub Link](https://github.com/parisafm/CSI-HAR-Dataset)
-    * 介绍：A dataset for seven different daily human activities including sitdown, standup, liedown, run, walk, fall and bend in an indoor environment.
-    * [Pape Link](https://www.mdpi.com/1424-8220/21/21/7225/pdf)；
-    * [DataSet Link](https://www.mdpi.com/1424-8220/21/21/7225/pdf)；
 
-3.  Title：**Activity-recognition-using-Wi-Fi-CSI-data**  
-    * Link：[[Activity-recognition-using-Wi-Fi-CSI-data]](https://github.com/sansanketdg/Activity-recognition-using-Wi-Fi-CSI-data/tree/master/data_2/position1)
-4.  so on
 
-## 毫米波
-
-1. 手势识别，北邮 数据集：[GestureMan/mHomeGes-dataset (github.com)](https://github.com/GestureMan/mHomeGes-dataset)；文章：Real-time Arm Gesture Recognition in Smart Home Scenarios via Millimeter Wave Sensing。
-2. 
 
 # library & reference
 
@@ -57,16 +42,6 @@
 | 通感一体化总结                                               | [Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)  | **[ Must-Reading-on-ISAC](https://github.com/yuanhao-cui/Must-Reading-on-ISAC)** |
 
 
-
-
-
-# modulation classification
-
-| Paper/Title                                                  | Code                                                         |                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- |
-| Modulation recognition using hierarchical deep neural networks - [Paper](https://ieeexplore.ieee.org/document/7920746?anchor=authors) | [Code](https://github.com/ahmedessam100/Modulation_Classification) | modulation recognition |
-| Modulation-Recognition-for-Wireless-Signals                  | [Code](https://github.com/LionAE/modulation-recognition-for-wireless-signals) | CNN、LSTM              |
-|                                                              |                                                              |                        |
 
 
 

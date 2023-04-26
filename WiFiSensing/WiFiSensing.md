@@ -1,4 +1,8 @@
-# CSI recognition
+# WiFi CSI 
+
+此部分总结有关CSI的研究，总结：[Detail About ， Link to CSI](https://github.com/yumoz/Signal/blob/master/CSI/CSI.md)；
+
+MATLAB用来处理csi.dat , [Github Link](https://github.com/guanzaijia/csi-matlab) ;
 
 此部分总结有关CSI的研究，总结：
 
@@ -33,16 +37,16 @@
 
 
 
-## CSI Data 
+## WiFi CSI Data 
 
-1.  Gi-z总结的：[Link](https://github.com/Gi-z/CSI-Data)
+1. Gi-z总结的：[Link](https://github.com/Gi-z/CSI-Data)
     * 介绍：全面，分类清楚；
-    
-2.  CSI-HAR-Dataset more about： [GitHub Link](https://github.com/parisafm/CSI-HAR-Dataset)
+
+2. CSI-HAR-Dataset more about： [GitHub Link](https://github.com/parisafm/CSI-HAR-Dataset)
     * intro：A dataset for seven different daily human activities including sitdown, standup, liedown, run, walk, fall and bend in an indoor environment.
     * [Pape Link : A CSI-Based Human Activity Recognition Using Deep Learning](https://www.mdpi.com/1424-8220/21/21/7225/pdf)；
     * [DataSet Link](https://github.com/parisafm/CSI-HAR-Dataset)；
-    
+
 3. CSI-dataset  [GitHub Link](https://github.com/qiang5love1314/CSI-dataset) ；
 
     * 介绍：Here are the channel state information (CSI) dataset which could be utilized for **indoor localization**. We collect them in two real world environments；
@@ -50,20 +54,30 @@
     * 用途：室内定位；
     * 数据集内容：实验室环境和会议室环境测试的数据集。
 
+4. Title：**Activity-recognition-using-Wi-Fi-CSI-data**  
+
+    * Link：[[Activity-recognition-using-Wi-Fi-CSI-data]](https://github.com/sansanketdg/Activity-recognition-using-Wi-Fi-CSI-data/tree/master/data_2/position1)
+
+5. [Wi-Monitor-code link](https://github.com/zs-zhoushuang/Wi-Monitor)；
+
+    * paper title： Wi-Monitor: Daily Activity Monitoring Using Commodity Wi-Fi
+
+6. [PerUnet Deep Signal Channel Attention in Unet for WiFi-Based Human Pose Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9889024)
+
+    * [数据集](https://github.com/NjtechCVLab/Wi-PoseDataset)；
+
+    
+
 
 
 ## 整理
 
 总结有关WiFi Sensing的论文资料等；
 
-| 论文 | 网址                                                         | 备注                                                         |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | [HACS](https://github.com/tahmidzbr/Human-Activities-Gestures-Recognition-using-Channel-State-Information-CSI-of-IEEE-802.11n?ysclid=ldy39stvya550102249) | This is a data-set for Human Activities & Gestures Recognition (HAGR) using the Channel State information (CSI) of IEEE 802.11n devices |
-|      |                                                              |                                                              |
-|      |                                                              |                                                              |
+| 论文                   | 网址                                                         | 备注                                                         |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1                      | [HACS](https://github.com/tahmidzbr/Human-Activities-Gestures-Recognition-using-Channel-State-Information-CSI-of-IEEE-802.11n?ysclid=ldy39stvya550102249) | This is a data-set for Human Activities & Gestures Recognition (HAGR) using the Channel State information (CSI) of IEEE 802.11n devices |
+|                        | [xingyunbing/hypersphere-svm: 超球面SVM (github.com)](https://github.com/xingyunbing/hypersphere-svm) | 基于SVM的类别增量人体活动识别方法_邢云冰                     |
+| metafi_pose_estimation | [pridy999/metafi_pose_estimation (github.com)](https://github.com/pridy999/metafi_pose_estimation) |                                                              |
 
 
-
-## 杂项
-
-* MATLAB用来处理csi.dat , [Github Link](https://github.com/guanzaijia/csi-matlab) ;
